@@ -23,15 +23,13 @@ ArcGIS Pro、Python (Pandas, Matplotlib)、Excel
 ## 2️⃣ 茶園適合地區分析 (Tea Plantation Suitability)
 
 **專案簡介：**  
-分析台灣茶園種植適合性，整合環境變數（高程、降雨量、土壤類型等），  
-利用 QGIS 與 Raster 分析找出最適種植區域，並製作地圖成果。
-
+分析台灣石碇區永安里茶園種植適合性，Slope 和NDVI 數值探討
 **使用工具：**  
-ArcGIS pro、Python、Raster Data
+ArcGIS pro、Raster Data
 
 **成果檔案：**  
-- `report.pdf`  
-- `screenshots/` （地圖圖檔）
+- `report.pdf`  簡報+海報
+
 
 ---
 
