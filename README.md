@@ -54,10 +54,10 @@ Python (Pandas, Scikit-learn)、Jupyter Notebook
 
 **專案簡介：**  
 建立人臉辨識系統，針對遮蔽物（口罩、帽子等）辨識，  
-利用 OpenCV 與 CNN 模型訓練影像資料，測試在不同遮蔽比例下的辨識準確率。
+利用Insightface和Catboost模型訓練影像資料，測試在不同遮蔽比例下的辨識準確率。
 
 **使用工具：**  
-Python (OpenCV, PyTorch)、Jupyter Notebook
+Python、Colab Notebook
 
 **成果檔案：**  
 - `report.pdf`  
