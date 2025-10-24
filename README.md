@@ -27,7 +27,7 @@ ArcGIS Pro、Python (Pandas, Matplotlib)、Excel
 利用 QGIS 與 Raster 分析找出最適種植區域，並製作地圖成果。
 
 **使用工具：**  
-QGIS、Python、Raster Data
+ArcGIS pro、Python、Raster Data
 
 **成果檔案：**  
 - `report.pdf`  
@@ -42,7 +42,7 @@ QGIS、Python、Raster Data
 分析頻道觀看數、訂閱數、上傳頻率等特徵，進行資料清理、特徵選取與回歸模型訓練，最終可視化結果。
 
 **使用工具：**  
-Python (Pandas, Scikit-learn)、Jupyter Notebook
+Python (Pandas, Scikit-learn)、Colab Notebook
 
 **成果檔案：**  
 - `notebook.ipynb`  
@@ -61,4 +61,4 @@ Python、Colab Notebook
 
 **成果檔案：**  
 - `report.pdf`  
-- `code/` （程式碼檔案）
+- `.ipynb` （程式碼檔案）
