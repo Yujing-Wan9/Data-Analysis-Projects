@@ -1,4 +1,4 @@
-# Data-Analysis-Projects
+# Data-Analysis&AI-Projects
 
 這個 Repository 收錄了我在大學期間完成的資料分析與 AI 專案，  
 涵蓋空間資料分析、機器學習以及人臉辨識等應用。
