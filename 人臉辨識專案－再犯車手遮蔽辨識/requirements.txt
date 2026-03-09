@@ -1,0 +1,8 @@
+catboost
+gradio
+insightface
+onnxruntime
+pandas
+numpy
+opencv-python
+pillow
