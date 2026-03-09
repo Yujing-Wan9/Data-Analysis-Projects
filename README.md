@@ -1,7 +1,7 @@
-# Data-Analysis&AI-Projects
+# Data-Analysis & AI-Projects
 
 這個 Repository 收錄了我在大學期間完成的資料分析與 AI 專案，  
-涵蓋空間資料分析、機器學習以及人臉辨識等應用。
+涵蓋空間資料分析、機器學習、人臉辨識及RAG等應用。
 
 ---
 
@@ -15,9 +15,12 @@
 ArcGIS Pro、Python (Pandas, Matplotlib)、Excel
 
 **成果檔案：**  
-├── demo.py
-├── output.csv
+```
+├── k_means_clustering_forNuclear.ipynb
+├── 核電廠選址與災害風險分析report.pdf
+├──Nuclear_spatialData.ppkx 
 └── README.md
+```
 
 ---
 
@@ -29,9 +32,11 @@ ArcGIS Pro、Python (Pandas, Matplotlib)、Excel
 ArcGIS pro、Raster Data
 
 **成果檔案：**  
-├── demo.py
-├── output.csv
+```
+├── 永安里空間分析.aprx
+├── 石碇區和茶園植被評估-report.pptx
 └── README.md
+```
 
 
 ---
@@ -46,9 +51,13 @@ ArcGIS pro、Raster Data
 Python (Pandas, Scikit-learn)、Colab Notebook
 
 **成果檔案：**  
-├── demo.py
-├── output.csv
-└── README.md
+```
+├── Model_performance.xlsx
+├── Decision_index.ipynb
+├── Youtuber_Growth_Prediction.docx
+├── Youtuber_Growth_Prediction_Report.pdf
+└── read.txt
+```
 
 ---
 
