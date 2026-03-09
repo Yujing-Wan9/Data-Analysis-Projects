@@ -15,8 +15,9 @@
 ArcGIS Pro、Python (Pandas, Matplotlib)、Excel
 
 **成果檔案：**  
-- `report.pdf` （期末報告）  
-- `slides.pptx` （簡報檔）
+├── demo.py
+├── output.csv
+└── README.md
 
 ---
 
@@ -28,7 +29,9 @@ ArcGIS Pro、Python (Pandas, Matplotlib)、Excel
 ArcGIS pro、Raster Data
 
 **成果檔案：**  
-- `report.pdf`  簡報+海報
+├── demo.py
+├── output.csv
+└── README.md
 
 
 ---
@@ -43,8 +46,9 @@ ArcGIS pro、Raster Data
 Python (Pandas, Scikit-learn)、Colab Notebook
 
 **成果檔案：**  
-- `notebook.ipynb`  
-- `report.pdf`
+├── demo.py
+├── output.csv
+└── README.md
 
 ---
 
@@ -58,5 +62,7 @@ Python (Pandas, Scikit-learn)、Colab Notebook
 Python、Colab Notebook
 
 **成果檔案：**  
-- `report.pdf`  
-- `.ipynb` （程式碼檔案）
+人臉辨識專案－再犯車手遮蔽辨識
+├── demo.py
+├── output.csv
+└── README.md
