@@ -14,6 +14,7 @@
 ---
 ## 資料來源
 本專案使用公開的飯店評論資料集，並擷取約 2000 筆評論進行實驗與系統開發。
+https://github.com/bookingcom/ml-dataset-reviews/tree/main/rectour24
 
 每筆資料包含：
 
