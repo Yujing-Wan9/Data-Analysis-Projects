@@ -4,8 +4,26 @@
 涵蓋空間資料分析、機器學習、人臉辨識及RAG等應用。
 
 ---
+## 1️⃣ Hotel Review RAG 問答系統 (Hotel Review QA System with RAG)
 
-## 1️⃣ 核電廠選址分析 (Nuclear Power Plant Site Selection)
+專案簡介：
+使用 Python 建立簡易 RAG (Retrieval-Augmented Generation) 系統，
+透過飯店評論資料建立向量檢索機制，並結合語言模型生成回答。
+系統可根據使用者問題搜尋相關評論內容並生成摘要回覆。
+
+使用工具：
+Python、Sentence Transformers、FAISS、HuggingFace Transformers、Gradio
+
+成果檔案：
+```
+├── hotelreview_Demo.py  
+├── API.py  
+├── hotel_reviews_2000.csv  
+├── requirements.txt  
+└── README.md
+```
+
+## 2️⃣ 核電廠選址分析 (Nuclear Power Plant Site Selection)
 
 **專案簡介：**  
 使用 GIS 與 Python (Pandas) 進行空間資料分析，整合人口密度、火山距離與震源深度等地理資料，  
@@ -21,23 +39,6 @@ ArcGIS Pro、Python (Pandas, Matplotlib)、Excel
 ├──Nuclear_spatialData.ppkx 
 └── README.md
 ```
-
----
-
-## 2️⃣ 茶園適合地區分析 (Tea Plantation Suitability)
-
-**專案簡介：**  
-分析台灣石碇區永安里茶園種植適合性，Slope 和NDVI 數值探討
-**使用工具：**  
-ArcGIS pro、Raster Data
-
-**成果檔案：**  
-```
-├── 永安里空間分析.aprx
-├── 石碇區和茶園植被評估-report.pptx
-└── README.md
-```
-
 
 ---
 
@@ -77,4 +78,19 @@ Python、Colab Notebook
 ├── output.csv
 ├── README.md
 └── requirements.txt
+```
+---
+
+## 5️⃣ 茶園適合地區分析 (Tea Plantation Suitability)
+
+**專案簡介：**  
+分析台灣石碇區永安里茶園種植適合性，Slope 和NDVI 數值探討
+**使用工具：**  
+ArcGIS pro、Raster Data
+
+**成果檔案：**  
+```
+├── 永安里空間分析.aprx
+├── 石碇區和茶園植被評估-report.pptx
+└── README.md
 ```
