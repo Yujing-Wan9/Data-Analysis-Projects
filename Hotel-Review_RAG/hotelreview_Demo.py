@@ -33,7 +33,7 @@ index = faiss.IndexFlatL2(dimension)
 
 index.add(np.array(embeddings).astype("float32"))
 
-model_name = "google/flan-t5-large"
+model_name = "google/flan-t5-base"
 
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 
