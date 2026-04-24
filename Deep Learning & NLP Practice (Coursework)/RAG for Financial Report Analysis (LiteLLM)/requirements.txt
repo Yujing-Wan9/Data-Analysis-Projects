@@ -1,4 +1,4 @@
-# Python >= 3.10 required (developed with 3.11.x)
+# Python >= 3.10 required (developed with 3.13.12 )
 
 sentence-transformers==3.0.1
 chromadb==0.5.5
