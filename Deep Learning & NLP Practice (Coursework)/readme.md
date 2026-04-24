@@ -12,7 +12,7 @@
 - DNN handwritten digit recognition (MNIST)  
 - NLP Chinese & English text segmentation  
 - News scraping and data preprocessing  
-- RAG practice using LiteLLM  
+- RAG practice using LiteLLM api key
 
 ---
 
